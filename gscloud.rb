@@ -10,8 +10,6 @@ class Gscloud < Formula
 
   def install
     bin.install "gscloud"
- 
   end
 
-  end
 end
